@@ -1,0 +1,4 @@
+project=nested_test
+architecture=container
+test=minitest
+template=erb
