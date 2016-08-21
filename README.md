@@ -22,8 +22,8 @@ After the params is validated in the controller the `alternative_emails` becomes
 
 Please see the following files:
 
-1. `spec/web/controllers/user/create_spec.rb` - Simply calling action with params, expecting params to be returned in response.
-2. `apps/web/controllers/user/create.rb` - The action and comments describing three attempts I did to get the expected behavior.
+1. [`spec/web/controllers/user/create_spec.rb`](https://github.com/thhermansen/hanami-dry-validation-array-hash/blob/master/spec/web/controllers/user/create_spec.rb) - Simply calling action with params, expecting params to be returned in response.
+2. [`apps/web/controllers/user/create.rb`](https://github.com/thhermansen/hanami-dry-validation-array-hash/blob/master/apps/web/controllers/user/create.rb) - The action and comments describing three attempts I did to get the expected behavior.
 
 # Resources
 
