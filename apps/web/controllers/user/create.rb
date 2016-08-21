@@ -26,7 +26,9 @@ module Web::Controllers::User
 
           # The following blocks of commented code is me trying different ways to
           # get the alternative_emails read correclty.
-          # I cannot get it to work. Read the #call and the result of each attempt.
+          #
+          # Please read the #call and then each ATTEMPT below as each comment includes the
+          # printed lines from #call.
 
 
           # ATTEMPT 1:
